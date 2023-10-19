@@ -13,3 +13,6 @@
    2. 外校: 在本校替换基础上对`university_id`, `university-id(=uv_id)`, 以及学校链接`https://xxxx.yuketang.cn`进行代码内查找替换
 3. 在程序所在目录下运行videoHelper.py</br>
    `python videoHelper.py`
+
+## 其他
+超星尔雅刷课脚本可参考[Github-Samueli924](https://github.com/Samueli924/chaoxing)
